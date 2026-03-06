@@ -1,4 +1,4 @@
-package Day_04_Arrays_Basics;
+package Day_04_Arrays_Basics.BASICS;
 
 class Basics {
     public static void main(String[] args) {

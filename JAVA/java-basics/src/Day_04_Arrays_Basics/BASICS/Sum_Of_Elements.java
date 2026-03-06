@@ -1,4 +1,4 @@
-package Day_04_Arrays_Basics;
+package Day_04_Arrays_Basics.BASICS;
 import java.util.Scanner;
 class Sum_Of_Elements {
     public static void main(String[] args) {
